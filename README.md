@@ -1,4 +1,4 @@
-# Project Name
+# Lending_Club Exploratory Data Analysis 
 > Lending Club is the largest online loan marketplace, facilitating personal loans,
 business loans, and financing of medical procedures.
 Identify these risky loan applicants using EDA is the aim of this case study.Outline a brief description of your project.
